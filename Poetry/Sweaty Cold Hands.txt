@@ -1,0 +1,39 @@
+[
+    "TICK"s are left-aligned;
+    "TOCK"s are right-aligned;
+    the rest is center-aligned;
+    "TICK"s and "TOCK"s begin farther out and work themselves closer to the center with each line at a constant rate.
+    Main text with multiple words per line: the spacing between words starts noticeably larger than normal, and gets smaller at a constant rate: the last line should have noticeablely smaller-than-usual spacing between the words,
+    and "under fumbling" should have approximately normal spacing between the words.
+]
+
+TICK
+Heavy eyes blinking quickly;
+TOCK
+
+TICK
+Nights coming hungry;
+TOCK
+
+TICK
+Dry wood
+TOCK
+
+TICK
+unattended
+TOCK
+
+TICK
+turns damp
+TOCK
+
+TICK
+under fumbling
+TOCK
+
+TICK
+sweaty
+TOCK
+
+TICK
+cold hands.
