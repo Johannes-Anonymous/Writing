@@ -1,4 +1,5 @@
 [
+    In the title, "Good and Faithful Servant (Wicked and Slothful)", "Good and Faithful" are to be rendered with a strikethrough line
     "TICK"s are left-aligned;
     "TOCK"s are right-aligned;
     the rest is center-aligned;
@@ -6,6 +7,9 @@
     Main text with multiple words per line: the spacing between words starts noticeably larger than normal, and gets smaller at a constant rate: the last line should have noticeablely smaller-than-usual spacing between the words,
     and "under fumbling" should have approximately normal spacing between the words.
 ]
+
+[TITLE]
+~~Good~~ ~~and~~ ~~Faithful~~ Servant (Wicked and Slothful)
 
 TICK
 Vacant days swallowing chance,
@@ -16,7 +20,7 @@ nights coming hungry;
 TOCK
 
 TICK
-Dry wood
+dry wood
 TOCK
 
 TICK
