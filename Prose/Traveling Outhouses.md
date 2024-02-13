@@ -107,13 +107,13 @@ It was on their second day of traveling through the canyon that they encountered
 
 The lead posse of travelers had reached the deep heart of the canyon, after descending through miles of a lush valley, when they met the bears.
 
-X, the younger brother of Y, [ TODO: DETERMINE NAMES ] recalls that though he and others had seen such bears before — while still out east — they were surprised by this one's size and less cautious manner. Noting its lighter color and humped back, X thought, “This is a different type of bear entirely than what I'm used to — we may be in a bad situation.”
+X, the younger brother of Y, [ TODO: DETERMINE NAMES ] recalls that though he and others had seen such bears before — while still out east — they were surprised by this one's size and less cautious manner. Noting its lighter color and humped back, X thought, “This is a different type of bear entirely than what I'm used to — we may be in a bad situation.”
 
 And such they were, for as he took stock of the animal, rough and chaotic sounds, soon followed by many cries, broke out behind him.
 
 He turned back to face camp, and saw their outhouses being smashed and batted around by a group of bears, and those around still in a state of confusion and shock.
 
-Then he saw his brother standing in the ruins of their outhouse — his trousers still partly undone — grappling and clawing at a bear much larger than him.
+Then he saw his brother standing in the ruins of their outhouse — his trousers still partly undone — grappling and clawing at a bear much larger than him.
 
 John and Jack ran up to him and together pulled and beat the bear away from Y, using broken boards to beat the animal on the snout.
 
