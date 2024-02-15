@@ -1,6 +1,7 @@
 # Poverty
 
 ## Poverty
+
 The sunrise bites hard.
 I have holes in my curtains and they taunt me —
 still, in bed, on the floor.
@@ -11,6 +12,7 @@ Today feels like an endless drag on a stale, stiff cigarette.
 
 
 ## Quit
+
 Life .....      ugh.
 
 
@@ -52,6 +54,7 @@ Why am I asking?
 
 
 ## Xbox
+
 I'm leaving my videogames
 to my little brother if I die;
 I put a post-it on the Xbox.
@@ -60,7 +63,7 @@ I wonder: does it still work?
 
 
 
-# Religion
+## Religion
 
 I walked by the church,
 and almost tried looking up at the steeples.
