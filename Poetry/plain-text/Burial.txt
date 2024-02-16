@@ -8,4 +8,6 @@ like the stone saints, you're alive in love, but cold to our touch.
 
 Our cars snake through town and around the graves;
 your plot is fresh: no granite, no name.
-We take turns shoveling earth, our muscles singing hymns, giving praise.
+We take turns shoveling earth,
+    our muscles singing hymns,
+        giving praise.
