@@ -1,5 +1,11 @@
 # Red Trees (Part I)
 
+## epigraph
+
+First, the acorns fell.
+
+## poem
+
 The red trees are dancing in the wind,
 and bunches of leaves are running over the lawns.
 
