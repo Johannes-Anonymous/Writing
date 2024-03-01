@@ -1,5 +1,5 @@
 [
-    In the title, "Good and Faithful Servant (Wicked and Slothful)", "Good and Faithful" are to be rendered with a strikethrough line
+    In the title, "Good and Faithful (Wicked and Slothful)", "Good and Faithful" are to be rendered with a strikethrough line
     "TICK"s are left-aligned;
     "TOCK"s are right-aligned;
     the rest is center-aligned;
@@ -9,7 +9,7 @@
 ]
 
 [TITLE]
-~~Good~~ ~~and~~ ~~Faithful~~ Servant (Wicked and Slothful)
+~~Good~~ ~~and~~ ~~Faithful~~ (Wicked and Slothful)
 
 TICK
 Vacant days swallowing chance,
