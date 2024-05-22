@@ -361,6 +361,9 @@ Face the wind with jagged teeth.
 Dark bones shaking
 under fragile skin.
 
+Dark bones shiver
+under fragile skin.
+
 
 
 
@@ -389,3 +392,9 @@ Rest, ye weary traveler,
 
 July swelter and hopes unbroken
     bear down like stillborn chains.
+
+
+
+
+Waves break heavy,
+and I want you here.
