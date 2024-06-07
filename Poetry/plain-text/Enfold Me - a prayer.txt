@@ -1,9 +1,5 @@
-[left-aligned]
-Bright breeze over silver lake
-and pure hope through your voice;
-air as clear glass before me
-and above us, massive sun sinking;
-
+# Enfold Me
+(a prayer)
 
 [center-aligned]
 Enfold me
