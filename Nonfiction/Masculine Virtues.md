@@ -1,6 +1,6 @@
 
 # Litany of Masculinity
-The virtues are adapted from those in “Seminary Formation Proposal” by Sophia Consulting, 2018, pp. 3-4.
+These character traits are adapted from those in “Seminary Formation Proposal” by Sophia Consulting, 2018, pp. 3-4.
 
 id  | A Boy                                               | A Man
 --- | --------------------------------------------------- | -----
