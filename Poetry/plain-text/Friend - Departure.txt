@@ -1,10 +1,15 @@
 # Friend (Departure)
 
+## All text is center-aligned. The "Step in, Step forward ..." text is italicized
+
 May your departure bring tears to these hearts,
 May your death be easy and sweet,
 May the saints rejoice to see you,
-And may they pave the way with roses at your feet.
+And may they pave the way
+with roses at your feet.
 
-Step in, step forward,
-Step in, step forward,
-Step in, step forward…
+Step in, Step forward,
+
+Step in, Step forward,
+
+Step in, Step forward…
