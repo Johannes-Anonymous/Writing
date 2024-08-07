@@ -1,3 +1,5 @@
+# Slothful
+
 [
     "TICK"s are left-aligned;
     "TOCK"s are right-aligned;
